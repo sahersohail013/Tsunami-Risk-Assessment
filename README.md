@@ -14,6 +14,6 @@ This project applies **machine learning** to predict the likelihood of a tsunami
 - **Goal:** Predict whether a given seismic event will generate a tsunami.
 - **Type:** Binary Classification
 - **Algorithm Used:** Random Forest Classifier
-- **Dataset Source:** [Kaggle Earthquake Dataset](https://www.kaggle.com/) *(or your dataset link)*
+- **Dataset Source:** [Kaggle Earthquake Dataset](https://www.kaggle.com/) 
 
 
